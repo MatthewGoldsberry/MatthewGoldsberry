@@ -31,11 +31,3 @@
 <a href="https://the-fellowship-of-the-script.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/fellowship-dark.svg" /><img src="assets/cards/fellowship-light.svg" width="40.40%" alt="The Fellowship of the Script" /></picture></a><a href="https://github.com/MatthewGoldsberry/Movie-Time"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/fellowship-src-dark.svg" /><img src="assets/cards/fellowship-src-light.svg" width="7.80%" alt="The Fellowship of the Script source code" /></picture></a>
 <a href="https://visual-disorder-in-cincinnati.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/three-one-one-dark.svg" /><img src="assets/cards/three-one-one-light.svg" width="40.40%" alt="Who You Gonna Call? 3-1-1!" /></picture></a><a href="https://github.com/MatthewGoldsberry/Who-you-gonna-call"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/three-one-one-src-dark.svg" /><img src="assets/cards/three-one-one-src-light.svg" width="7.80%" alt="Who You Gonna Call? 3-1-1! source code" /></picture></a>
 </p>
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatthewGoldsberry/MatthewGoldsberry/output/contrib-comet-dark.svg" />
-<img alt="Contribution graph: a comet sweeps the year, consuming active days as its ion tail grows" src="https://raw.githubusercontent.com/MatthewGoldsberry/MatthewGoldsberry/output/contrib-comet-light.svg" width="100%" />
-</picture>
-</div>
-
-<p align="center"><sub>Off the clock: climbing with the UC Climbing Club, or outdoors.</sub></p>
